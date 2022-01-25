@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TresActivities</string>
+    <string name="BotonSiguiente1">Siguiente</string>
+    <string name="BotonAnterior1">Anterior</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="BotonSiguiente2">Siguiente</string>
+    <string name="BotonAnterior2">Anterior</string>
+    <string name="tv2">Segundo Activity</string>
+    <string name="BotonSiguiente3">Siguiente</string>
+    <string name="BotonAnterior3">Anterior</string>
+    <string name="tv3">Tercer Activity</string>
+</resources>
